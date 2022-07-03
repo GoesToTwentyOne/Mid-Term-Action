@@ -16,7 +16,7 @@ int main()
       }
     }
   }
-  printf("After sorting the array \n" );
+  printf("\nAfter sorting the array \n" );
   for(int i=0;i<5;i++){
     printf("%d  ", arr[i]);
 }
